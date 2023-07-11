@@ -8,6 +8,8 @@ public class ReviewGit {
         boolean b = true;
         if(b){
             System.out.print("复习git");
+        }else{
+            System.out.println("刷视频了");
         }
     }
 }
