@@ -5,5 +5,9 @@ public class ReviewGit {
         System.out.println("hello,git");
         System.out.println("master just modify");
         System.out.println("hot-fix just modify");
+        boolean b = true;
+        if(b){
+            System.out.print("复习git");
+        }
     }
 }
